@@ -11,6 +11,7 @@ fullscreen = 0
 
 [buildozer]
 log_level = 2
+warn_on_root = 0
 
 [app:android]
 android.permissions = INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
